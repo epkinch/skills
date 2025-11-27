@@ -1,0 +1,63 @@
+strict digraph {
+    edge [fontname="Helvetica,Arial,sans-serif", arrowhead=None];
+    node [shape=circle];
+    rankdir = LR;
+    {rank = same; C9 C8 C7 C6 C5 C4 C3 C2 C1;};
+    {rank = same; E5 E4 E3 E2 E1;};
+    
+    and1 [label="^", shape=plaintext, fontsize=40];
+    and2 [label="^", shape=plaintext, fontsize=40];
+    and3 [label="^", shape=plaintext, fontsize=40];
+    and4 [label="^", shape=plaintext, fontsize=40];
+    and5 [label="^", shape=plaintext, fontsize=40];
+    and6 [label="^", shape=plaintext, fontsize=40];
+    and7 [label="^", shape=plaintext, fontsize=40];
+
+    
+    exclusive1 [label="O", shape=plaintext, fontsize=25];
+    exclusive2 [label="E", shape=plaintext, fontsize=25];
+    exclusive3 [label="E", shape=plaintext, fontsize=25];
+    
+    C1 -> E1
+    
+    C2 -> and1
+    C6 -> and1
+    and1 -> E2
+    
+    C2 -> and2
+    C7 -> and2
+    and2 -> E5
+    
+    C3 -> and3
+    C4 -> and3
+    C5 -> and3
+    C6 -> and3
+    and3 -> E3
+    
+    C8 -> and4
+    C1 -> and4
+    and4 -> E4
+    
+    C9 -> and5
+    C1 -> and5
+    and5 -> E5
+    
+    C7 -> and6
+    C8 -> and6
+    and6 -> E4
+    
+    C7 -> and7
+    C9 -> and7
+    and7 -> E5
+    
+    exclusive1 -> C1 [style=dotted]
+    exclusive1 -> C2 [style=dotted]
+    
+    exclusive2 -> C6 [style=dotted]
+    exclusive2 -> C7 [style=dotted]
+    
+    exclusive3 -> C8 [style=dotted]
+    exclusive3 -> C9 [style=dotted]
+    
+    {C3; C4; C5} -> C2 [style=dotted, arrowhead=normal, label="R"]
+}
