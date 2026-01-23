@@ -1,0 +1,10 @@
+[package]
+name = "yew-app"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+gloo-net = "0.6.0"
+serde = "1.0.228"
+wasm-bindgen-futures = "0.4.58"
+yew = { version = "0.20", features = ["csr"] }
