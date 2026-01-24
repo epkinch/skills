@@ -1,0 +1,10 @@
+/Users/kinchy/Code/Projects/skills/ECE421_Labs/Lab6_Node_Angle_Server/E4_TowerWeb/hello-towerweb/target/debug/deps/pest_derive-5732ab65d44e9248.d: /Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_derive-1.0.8/src/lib.rs /Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_derive-1.0.8/src/ast.rs /Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_derive-1.0.8/src/generator.rs /Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_derive-1.0.8/src/optimizer.rs /Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_derive-1.0.8/src/parser.rs /Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_derive-1.0.8/src/validator.rs
+
+/Users/kinchy/Code/Projects/skills/ECE421_Labs/Lab6_Node_Angle_Server/E4_TowerWeb/hello-towerweb/target/debug/deps/libpest_derive-5732ab65d44e9248.dylib: /Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_derive-1.0.8/src/lib.rs /Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_derive-1.0.8/src/ast.rs /Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_derive-1.0.8/src/generator.rs /Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_derive-1.0.8/src/optimizer.rs /Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_derive-1.0.8/src/parser.rs /Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_derive-1.0.8/src/validator.rs
+
+/Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_derive-1.0.8/src/lib.rs:
+/Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_derive-1.0.8/src/ast.rs:
+/Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_derive-1.0.8/src/generator.rs:
+/Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_derive-1.0.8/src/optimizer.rs:
+/Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_derive-1.0.8/src/parser.rs:
+/Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_derive-1.0.8/src/validator.rs:

@@ -1,0 +1,9 @@
+[package]
+name = "hello-towerweb"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+tower-web = "0.3.7"
+tokio = "0.2.13"
+serde = "1.0.228"
