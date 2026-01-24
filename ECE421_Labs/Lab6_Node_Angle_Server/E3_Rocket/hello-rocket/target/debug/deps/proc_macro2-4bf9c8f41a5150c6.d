@@ -1,0 +1,10 @@
+/Users/kinchy/Documents/ualberta/Y4S2/ECE421/Labs/Lab6_Node_Angle_Server/E3_Rocket/hello-rocket/target/debug/deps/proc_macro2-4bf9c8f41a5150c6.d: /Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/lib.rs /Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/strnom.rs /Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/fallback.rs /Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/wrapper.rs
+
+/Users/kinchy/Documents/ualberta/Y4S2/ECE421/Labs/Lab6_Node_Angle_Server/E3_Rocket/hello-rocket/target/debug/deps/libproc_macro2-4bf9c8f41a5150c6.rlib: /Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/lib.rs /Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/strnom.rs /Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/fallback.rs /Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/wrapper.rs
+
+/Users/kinchy/Documents/ualberta/Y4S2/ECE421/Labs/Lab6_Node_Angle_Server/E3_Rocket/hello-rocket/target/debug/deps/libproc_macro2-4bf9c8f41a5150c6.rmeta: /Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/lib.rs /Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/strnom.rs /Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/fallback.rs /Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/wrapper.rs
+
+/Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/lib.rs:
+/Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/strnom.rs:
+/Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/fallback.rs:
+/Users/kinchy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/wrapper.rs:

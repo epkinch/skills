@@ -1,0 +1,1 @@
+{"rustc":16301021005508712824,"features":"[]","declared_features":"[\"const_fn\", \"lazy_static\", \"tls\"]","target":3926144001255880696,"profile":5347358027863023418,"path":1497279173144452499,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/state-80869524b45f2f60/dep-lib-state","checksum":false}}],"rustflags":[],"config":8247474407144887393,"compile_kind":0}
