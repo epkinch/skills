@@ -1,1 +1,0 @@
-/Users/kinchy/Code/Projects/skills/ECE421_Labs/Lab6_Node_Angle_Server/E4_TowerWeb/hello-towerweb/target/debug/hello-towerweb: /Users/kinchy/Code/Projects/skills/ECE421_Labs/Lab6_Node_Angle_Server/E4_TowerWeb/hello-towerweb/src/main.rs
